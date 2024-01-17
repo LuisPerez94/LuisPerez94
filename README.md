@@ -3,6 +3,15 @@
 
 Welcome to my Github profile 😄. I'm a web developer. I like to work with JS technologies (backend and mainly frontend) and I've been doing this for a long time. I enjoy solving problems and I would like to be helpful for other developers, so I'm going to start creating a some repos with useful usecases that has been helpful for me and new projects I want to do for fun. Hope it helps.
 
+- 🔭 I’m currently working on E-commerce with Shopify.
+- 🌱 I’m currently learning leadership.
+- 🤔 I’m looking for help with english fluenty
+- 💬 Ask me about anything, I love to talk about anything, technology, science, healt, history, etc.
+- ⚡ Fun fact: I love chocolate 🍫
+
+reach me at [Telegram](t.me/MimoPerez)
+
+
 
 <!--
 **LuisPerez94/LuisPerez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
