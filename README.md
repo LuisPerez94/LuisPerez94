@@ -9,7 +9,7 @@ Welcome to my Github profile 😄. I'm a web developer. I like to work with JS t
 - 💬 Ask me about anything, I love to talk about anything, technology, science, healt, history, etc.
 - ⚡ Fun fact: I love chocolate 🍫
 
-reach me at [Telegram](t.me/MimoPerez)
+reach me at [Telegram](https://t.me/MimoPerez)
 
 
 
